@@ -2,7 +2,7 @@
 
 This is a simple e-commerce website built using HTML, CSS, and JavaScript.
 ## Website Link
-https://e-commerce-one-fawn-37.vercel.app/
+https://ecommerce-joe.vercel.app/
 
 ## Features
 - Home page with product listings
